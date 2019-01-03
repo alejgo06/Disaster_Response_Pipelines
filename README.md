@@ -1,5 +1,7 @@
 # Disaster Response Pipeline Project
 
+<img width="1266" alt="udacity_app" src="https://user-images.githubusercontent.com/23212081/50654745-227e8380-0f8e-11e9-9fc5-41bc43b28d16.png">
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
